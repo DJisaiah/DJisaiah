@@ -1,8 +1,9 @@
 ![freiren](https://media1.tenor.com/m/4CowiOXennUAAAAC/frieren-window.gif"))
 
 ### about
-I'm currently working on ![Pomo-Tracker](https://github.com/DJisaiah/pomo-tracker)
 
-##### I use the following languages:
+Second year CS Student.
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,c,js)](https://skillicons.dev)
+I'm currently working on ![Pomo-Tracker](https://github.com/DJisaiah/pomo-tracker).
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/djisaiah1)
