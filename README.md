@@ -1,4 +1,4 @@
-![freiren](https://media1.tenor.com/m/4CowiOXennUAAAAC/frieren-window.gif"))
+![freiren](https://media1.tenor.com/m/4CowiOXennUAAAAC/frieren-window.gif")
 
 ### about
 
